@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head >
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="#">
+    <title>JASWANTH PORTFOLIO</title>
+
+</head>
+<body style="background-color:rgb(244, 242, 221)" >
+    <footer style="text-align: center;">
+        <div class="logo"><b> JASWANTH KRISHNA'S PORTFOLIO </b></div>
+        <div class="logo"><marquee behavior="scroll"width="19%" direction="right" height="18px" scrollamount="14"> ---------------------------------------------------</marquee> </div>
+    </footer>
+    <nav class="navbar">
+        <div class="max-width">
+            
+            <!-- <div class="logo"><b> JASWANTH KRISHNA'S PORTFOLIO </b></div>
+            <div class="logo"><marquee behavior="scroll"width="19%" direction="right" height="18px" scrollamount="14"> ---------------------------------------------------</marquee> </div> -->
+           
+            <ul class="menu">
+                <li><a href="#home" class="menu-btn">Home</a></li>
+                <li><a href="#about" class="menu-btn">About</a></li>
+                <li><a href="#skills" class="menu-btn">Skills</a></li>
+                <li><a href="#contact" class="menu-btn">Contact</a></li>
+            </ul>
+            <div class="menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </nav>
+    
+    <section class="home" id="home">
+        <div class="max-width">
+            <div class="home-info">
+                <div class="text-1">Hello, I am</div>
+                <div class="text-2">JASWANTH KRISHNA AKULA</div>
+                <div class="text-3">And I'm a <span class="typing">Web Devloper</span></div>                    
+                </div>
+                <br>
+                <a href="https://www.linkedin.com/in/jaswanthkrishna-akula-4524081b8/">Hire me</a>
+                <a href="#about">Know More</a>
+            </div>
+        </div>
+    </section>
+    <!--about-->
+    <section class="about" id="about">
+        <div class="max-width">
+            <h2 class="title"><u>About me</u> </h2>
+            <div class="about-info">
+                <style>
+                    img{
+                        border-radius: 40%;
+                        /* display: block;
+                        margin-left: auto;
+                        margin-right: auto; */
+                    }
+                </style>
+                <div class="column left">
+                    
+                    <img src="https://drive.google.com/uc?id=1HWHydAHLDGRWN0MDVCODyHmMlBPC2OkZ" alt="Photograph" width="250px" height="250px" >
+                </div>
+                <fieldset style="text-align: justify;">
+                    <div class="column right">
+                    <div class="text">
+                        <strong>
+                            I am Jaswanth Krishna and I am pursuing Btech CSE-AIML in Gandhi institute of Technology and Managment,Visakhapatnam. In my free time I do competitive programming to improve my thinking abilities and learn some new concepts. Taking alongside my interest in Artifical intelligence, I am continuously working to improve  My Skills in the field of FULL STACK | Python | Data Structures | HTML | CSS |.
+                             
+                        
+                        </strong> 
+                        
+                    </div>
+                    
+                </div>
+            </fieldset>
+            <a href="https://drive.google.com/file/d/1-jE16mIwURhAoaDiakWhjsOe8tVIA-F5/view?usp=sharing" target="_blank">Download CV</a>
+                
+            </div>
+        </div>
+    </section>
+    <!--skills-->
+    <section class="skills" id="skills">
+        <div class="max-width">
+            <h2 class="title"><u>My skills</u></h2>
+            <div class="skills-content">
+                <div class="column left">
+                <div class="text">My creative skills & experiences:-</div>
+                    <p>Currently, I have got my hands-on HTML, CSS, JS, Bootstrap, Python,Java.
+                        I do have great problem-solving skills.
+                       </p>
+                </div>
+                <div class="column right">
+                    <div class="bars">
+                        <div class="info">
+                            <span>HTML:-</span>
+                            <span>90%</span>
+                        </div>
+                        <div class="line html"></div>
+                    </div>
+                    <div class="bars">
+                        <div class="info">
+                            <span>CSS:-</span>
+                            <span>60%</span>
+                        </div>
+                        <div class="line css"></div>
+                    </div>     
+                    <div class="bars">
+                        <div class="info">
+                            <span>Bootstrap:-</span>
+                            <span>60%</span>
+                        </div>
+                        <div class="line css"></div>
+                    </div>  
+                    <div class="bars">
+                        <div class="info">
+                            <span>Python:-</span>
+                            <span>80%</span>
+                        </div>
+                        <div class="line css"></div>
+                    </div>  
+                    <div class="bars">
+                        <div class="info">
+                            <span>Java:-</span>
+                            <span>50%</span>
+                        </div>
+                        <div class="line css"></div>
+                    </div>  
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--contact-->
+    <section class="contact" id="contact">
+        <div class="max-width">
+            <h2 class="title"><u>Contact me</u> </h2>
+            <div class="contact-info">
+                <div class="column left">
+                    <div class="text"> <u>Get in Touch</u> </div>
+                    <div class="icons">
+                        <div class="row">
+                            <i class="fas fa-user"></i>
+                            <div class="info">
+                                <br>
+                                <div class="head">Name : JASWANTH KRISHNA AKULA</div>
+                                <div class="sub-title"></div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <i class="fas fa-map"></i>
+                            <div class="info">
+                                <div class="head">Address :</div>
+                                <div class="sub-title">Visakhapatnam, India</div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <i class="fas fa-envelope"></i>
+                            <div class="info">
+                                <div class="head">Email :</div>
+                                <div class="sub-title">jaswanthkrishnaakula@gmail.com</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column right">
+                    <div class="text">Message me</div>
+                    <form action="#">
+                        <div class="fields">
+                            <div class="field name">
+                                <input type="text" placeholder="Name" required>
+                            </div>
+                            <div class="field email">
+                                <input type="email" placeholder="Email" required>
+                            </div>
+                        </div>
+                        <div class="field">
+                            <input type="text" placeholder="Subject" required>
+                        </div>
+                        <div class="field textarea">
+                            <textarea cols="30" rows="10" placeholder="Message.." required></textarea>
+                        </div>
+                        <div class="button-area">
+                            <button type="submit">Send message</button>
+                        </div>
+                    </form> 
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+       
+    </section>
+    <footer style="text-align: center;">
+        <span>Crafted by <a href="https://www.linkedin.com/in/jaswanthkrishna-akula-4524081b8/">JASWANTH KRISHNA AKULA</a>| <span class="far fa-copyright"></span> 2022 All rights reserved.</span>
+    </footer>
+    
+</body>
+</html>
